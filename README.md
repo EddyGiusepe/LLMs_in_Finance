@@ -18,6 +18,10 @@ Links de estudo:
 
 * [GitHub: Hanane DUPOUY](https://github.com/hananedupouy/LLMs-in-Finance)
 
+* [GenAI Financial Recommendation Engine | LLM + RAG ChromaDB [ Zypher 7B LLM ] Mistral LLM](https://www.youtube.com/watch?app=desktop&v=KXFupEkZtQo)
+
+* [local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance)
+
 
 
 Thanks God 🤓!
