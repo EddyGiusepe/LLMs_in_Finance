@@ -16,7 +16,7 @@ Links de estudo:
 
 * [Financial Services](https://ambilio.com/category/analytics/)
 
-
+* [GitHub: Hanane DUPOUY](https://github.com/hananedupouy/LLMs-in-Finance)
 
 
 
